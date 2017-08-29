@@ -2,10 +2,10 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Tale
+title:          Anmol Vijayvargiya
 paginate:       5
 baseurl:        ""
-url:            "https://chesterhow.github.io/tale"
+url:            "http://anmolvj.com/"
 
 # Assets
 sass:
@@ -17,9 +17,9 @@ markdown:       kramdown
 
 # About
 author:
-  name:         Chester How
-  url:          http://chester.how
-  email:        chesterhow@gmail.com
+  name:         Anmol Vijayvargiya
+  url:          http://anmolvj.com
+  email:        avijayvargiya@scu.edu
 
 # Custom vars
 version:        3.4.1
